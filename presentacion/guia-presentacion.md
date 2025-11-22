@@ -18,13 +18,11 @@ Tu presentación debe demostrar:
 ### 🎬 1. Introducción (2-3 minutos)
 **Contenido:**
 - Presentación del equipo y roles
-- Nombre del proyecto y lema/slogan
-- Hook inicial: ¿Por qué este problema importa?
+- Nombre del del equipo y lema/slogan
 
 **Tips:**
 - 💡 Empieza con una estadística impactante
 - 💡 Usa una pregunta retórica para enganchar
-- 💡 Mantén contacto visual con la audiencia
 
 **Ejemplo de apertura:**
 > "¿Sabían que en Centroamérica, 1 de cada 4 jóvenes abandona la escuela antes de completar la secundaria? Somos [nombres], y hoy les presentamos **EduData Latinoamérica**, una herramienta que *convierte datos en oportunidades educativas*."
@@ -77,7 +75,7 @@ Tu presentación debe demostrar:
 
 **Contenido:**
 - Demo en vivo del dashboard/solución
-- 3-4 insights principales descubiertos
+- 3-4 insights principales descubiertos (mínimo)
 - Visualizaciones más impactantes
 - Interpretación de resultados
 
@@ -95,7 +93,7 @@ Tu presentación debe demostrar:
 - ⚡ **Mantén ritmo dinámico** - no te quedes en una pantalla
 
 **Ejemplos de Insights Bien Presentados:**
-> "Como pueden ver en este gráfico, descubrimos que existe una correlación fuerte (0.8) entre la inversión per cápita en educación y las tasas de matriculación. Esto significa que **por cada $100 dólares adicionales invertidos, la matriculación aumenta aproximadamente 5%**."
+> "Como pueden ver en este gráfico, descubrimos que existe una correlación fuerte entre la inversión per cápita en educación y las tasas de matriculación. Esto significa que **por cada $100 dólares adicionales invertidos, la matriculación aumenta aproximadamente 5%**."
 
 ---
 
@@ -124,7 +122,6 @@ Tu presentación debe demostrar:
 **Preparación:**
 - Anticipa 5-6 preguntas comunes
 - Prepara respuestas concisas
-- Practica decir "No sé, pero es una excelente pregunta para investigar"
 
 **Preguntas Típicas:**
 - ¿Cómo validaron la calidad de los datos?
@@ -139,7 +136,6 @@ Tu presentación debe demostrar:
 ### 📐 Principios Básicos
 - **Regla 6x6:** Máximo 6 líneas, 6 palabras por línea
 - **Contraste alto:** Texto oscuro sobre fondo claro (o viceversa)
-- **Fuentes grandes:** Mínimo 24pt para que se vea desde atrás
 - **Consistencia:** Mismo formato en todas las slides
 
 ### 🖼️ Elementos Visuales Efectivos
