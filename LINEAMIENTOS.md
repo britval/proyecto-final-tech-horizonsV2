@@ -1,41 +1,33 @@
-# 📋 Lineamientos del Proyecto Final
+# Lineamientos del Proyecto Final
 ## Guía Paso a Paso para el Desarrollo
 
 ---
 
-## 🎯 Fase 1: Planificación y Definición (Semana 1)
+## Fase 1: Planificación y Definición (22-Nov)
 
-### 📝 1.1 Formación de Equipos
-- **Tamaño:** 3-4 integrantes máximo
-- **Diversidad:** Combina diferentes fortalezas (programación, diseño, comunicación)
-- **Registro:** Completa el formulario de registro de equipos
+### 1.1 Formación de Equipos
+- **Tamaño:** 6-7 integrantes máximo
 
-### 🌍 1.2 Selección de ODS y Problemática
+### 1.2 Selección de ODS y Problemática
 - **Elige tu ODS:** Revisa los 17 Objetivos de Desarrollo Sostenible
 - **Define el problema:** Identifica una problemática específica y medible
 - **Justifica la relevancia:** ¿Por qué es importante este problema?
-- **Scope local/global:** ¿Te enfocarás en Panamá, Latinoamérica, o global?
+- **Scope:** ¿Te enfocarás en Panamá, Latinoamérica, etc.?
 
-#### 💡 Ejemplos de Problemáticas por ODS:
-- **ODS 3 (Salud):** Análisis de factores que influyen en la esperanza de vida
+#### Ejemplos de Problemáticas por ODS:
 - **ODS 4 (Educación):** Identificación de brechas educativas por región
-- **ODS 11 (Ciudades):** Análisis de la contaminación urbana y sus efectos
-- **ODS 13 (Clima):** Visualización del cambio climático en Centroamérica
 
-### 🔍 1.3 Búsqueda y Evaluación de Datos
+### 1.3 Búsqueda y Evaluación de Datos
 - **Identifica fuentes:** Kaggle, World Bank, datos.gob, APIs públicas
 - **Evalúa la calidad:** ¿Los datos están completos? ¿Son recientes?
 - **Considera el tamaño:** ¿Puedes manejar el dataset con las herramientas que conoces?
 - **Verifica la licencia:** ¿Puedes usar estos datos públicamente?
 
-### 📋 1.4 Definición de Roles del Equipo
+### 1.4 Definición de Roles del Equipo
 **Asigna responsabilidades claras:**
-- **🗄️ Data Engineer:** Limpieza y preparación de datos
-- **📊 Data Analyst:** Análisis exploratorio y estadísticas
-- **🎨 Visualización Specialist:** Gráficos y dashboard
-- **📢 Project Manager:** Coordinación y presentación
+- **Rol:** responsabilidad
 
-### 📄 1.5 Propuesta Inicial (Entregable)
+### 1.5 Propuesta Inicial (Entregable)
 **Documento de 1-2 páginas que incluya:**
 - Nombre del proyecto y lema/slogan
 - ODS seleccionado y justificación
@@ -46,9 +38,9 @@
 
 ---
 
-## 🔧 Fase 2: Desarrollo y Análisis (Semana 2-3)
+## Fase 2: Desarrollo y Análisis (25/27-Nov)
 
-### 📊 2.1 Preparación de Datos
+### 2.1 Preparación de Datos
 - **Carga de datos:** Usando pandas, lee tus datasets
 - **Exploración inicial:** `.info()`, `.describe()`, `.head()`
 - **Limpieza:** Manejo de valores nulos, duplicados, formatos
@@ -68,19 +60,19 @@ print(df.describe())
 print(df.isnull().sum())
 ```
 
-### 📈 2.2 Análisis Exploratorio
+### 2.2 Análisis Exploratorio
 - **Estadísticas descriptivas:** Media, mediana, distribuciones
 - **Relaciones:** Correlaciones entre variables
 - **Tendencias:** Análisis temporal si aplica
 - **Segmentaciones:** Por regiones, categorías, etc.
 
-### 🎨 2.3 Visualizaciones Iniciales
+### 2.3 Visualizaciones Iniciales
 - **Gráficos básicos:** Barras, líneas, histogramas
 - **Mapas:** Si tienes datos geográficos
 - **Comparaciones:** Entre grupos, regiones, períodos
 - **Distribuciones:** Boxplots, violin plots
 
-### 🏗️ 2.4 Arquitectura de la Solución
+### 2.4 Arquitectura de la Solución
 **Documenta cómo funciona tu proyecto:**
 ```
 [Datos] → [Limpieza] → [Análisis] → [Visualización] → [Dashboard]
@@ -90,12 +82,12 @@ print(df.isnull().sum())
 
 ---
 
-## 💻 Fase 3: Implementación de la Solución (Semana 3-4)
+## Fase 3: Implementación de la Solución (27-Nov / 02-Dic)
 
-### 🖥️ 3.1 Desarrollo del Dashboard/Aplicación
-**Opciones tecnológicas:**
+### 3.1 Desarrollo del Dashboard/Aplicación
+**Opciones tecnológicas a discreción del grupo:**
 
-#### Option A: Dashboard con Streamlit (Recomendado)
+#### Option A: Dashboard con Streamlit
 ```python
 import streamlit as st
 import pandas as pd
@@ -111,19 +103,14 @@ st.sidebar.selectbox("Filtrar por:", opciones)
 - Combina markdown, código y visualizaciones
 - Exporta como HTML para compartir
 
-#### Option C: Aplicación Web con Flask
-- Para equipos más avanzados
-- Mayor flexibilidad de diseño
-- Requiere más conocimiento de web
-
-### 📱 3.2 Funcionalidades Esenciales
+### 3.2 Funcionalidades Esenciales
 **Tu solución debe incluir:**
 - **Filtros interactivos:** Por fecha, región, categoría
 - **Visualizaciones dinámicas:** Que cambien según los filtros
 - **Métricas clave:** KPIs importantes destacados
 - **Interpretación:** Explicaciones de qué significan los datos
 
-### 🎯 3.3 Enfoque en el Impacto
+### 3.3 Enfoque en el Impacto
 **Responde estas preguntas en tu solución:**
 - ¿Qué insights descubriste?
 - ¿Cómo estos insights pueden generar cambio?
@@ -132,15 +119,15 @@ st.sidebar.selectbox("Filtrar por:", opciones)
 
 ---
 
-## 📚 Fase 4: Documentación y Presentación (Semana 4)
+## Fase 4: Documentación y Presentación (04-Dic)
 
-### 📖 4.1 Documentación del Código
-- **README.md:** Explicación clara de cómo ejecutar el proyecto
+### 4.1 Documentación del Código
+- **README.md:** Explicación clara del proyecto (cómo ejecutar el proyecto en caso de ser necesario)
 - **Comentarios:** En funciones complejas
 - **Docstrings:** Para funciones principales
 - **Requirements.txt:** Lista de dependencias
 
-### 🎤 4.2 Preparación de la Presentación
+### 4.2 Preparación de la Presentación (Vídeo)
 **Estructura sugerida (10-15 minutos):**
 
 1. **Introducción (2 min)**
@@ -167,34 +154,30 @@ st.sidebar.selectbox("Filtrar por:", opciones)
    - Recomendaciones basadas en datos
    - Próximos pasos y mejoras
 
-6. **Preguntas (2-3 min)**
-   - Espacio para Q&A
-
-### 🎥 4.3 Elementos Visuales de la Presentación
+### 4.3 Elementos Visuales de la Presentación
 - **Slides claras:** Máximo 10-12 slides
-- **Gráficos grandes:** Que se vean desde atrás del salón
+- **Gráficos grandes:** Que se puedan apreciar en el vídeo
 - **Demo preparada:** Ensaya tu demostración
-- **Backup plan:** Ten screenshots si falla la demo
 
 ---
 
-## ✅ Entregables Finales
+## Entregables Finales
 
-### 📦 4.4 Repositorio de GitHub
+### 4.4 Repositorio de GitHub 
+   Nota: Puede mandar un archivo zip de no utilizar Github, pero puede perder puntos.
 **Debe contener:**
-- [ ] Código fuente completo y funcional
-- [ ] Datasets utilizados (o enlaces a las fuentes)
-- [ ] README.md con instrucciones de instalación
-- [ ] Notebooks con análisis exploratorio
-- [ ] Aplicación/dashboard funcionando
-- [ ] Documentación técnica
+- Código fuente completo y funcional
+- Datasets utilizados (o enlaces a las fuentes)
+- README.md con instrucciones de instalación
+- Notebooks con análisis exploratorio
+- Aplicación/dashboard funcionando
+- Documentación técnica
 
-### 📊 4.5 Presentación
-- [ ] Slides de la presentación (PDF o PPT)
-- [ ] Demo en vivo funcionando
-- [ ] Video de backup (opcional pero recomendado)
+### 4.5 Presentación
+- Slides de la presentación (PDF o PPT)
+- Vídeo de presentación del grupo
 
-### 📝 4.6 Reporte Final (Opcional)
+### 4.6 Reporte Final (Opcional)
 - Documento de 2-3 páginas resumiendo:
   - Objetivos y metodología
   - Principales hallazgos
@@ -203,54 +186,70 @@ st.sidebar.selectbox("Filtrar por:", opciones)
 
 ---
 
-## 🚨 Criterios de Evaluación Detallados
+## Criterios de Evaluación Detallados
 
-### 📊 Técnico (40%)
-- **Calidad del código** (15%): Limpio, comentado, funcional
-- **Análisis de datos** (15%): Uso correcto de pandas, estadísticas
-- **Visualizaciones** (10%): Claras, informativas, estéticamente agradables
+### Técnico (40%)
+- **Fase inicial del proyecto (ODS)**:
+      - ODS seleccionado correctamente y justificado
+	   - Preguntas de investigación bien planteadas (3 a 5)	
+	   - Repositorio inicial en GitHub (estructura base + README)	
+	   - Identidad del equipo	
+- **Análisis de datos en pandas**:
+   - Limpieza, exploración, manejo de nulos, filtros, agrupaciones, interpretaciones y calidad técnica del análisis.
+- **Visualizaciones + Dashboard**:	
+   - Mínimo 4 gráficos, calidad visual, orden, estilo coherente, interpretación y valor para responder preguntas del ODS.
 
-### 🌍 Impacto Social (30%)
-- **Relevancia del problema** (15%): Importancia y urgencia
-- **Alineación con ODS** (10%): Conexión clara y justificada
-- **Propuesta de solución** (5%): Realismo y viabilidad
+### Impacto Social (30%)
+- **Relevancia del problema**: 
+   - Claridad de la problemática social
+   - Impacto social y aplicabilidad
+- **Alineación con ODS**:
+   -  Pertinencia del ODS seleccionado
+- **Propuesta de solución**: 
+   - Relevancia y coherencia de la solución propuesta
+   - Conclusiones basadas en datos
+   - Originalidad y profundidad
+	
+### Trabajo en Equipo (20%)
+- **Asistencia grupal**: 
+   - Promedio de asistencia del grupo a clases 1–24.
+- **Entrega de trabajos de clase**:
+   - Entrega de actividades previas (mini notebooks, ejercicios, etc.).
+- **Documentación y organización**: 
+   - Notebook ordenado, limpio y documentado
+	- Markdown bien usado
+	- Comentarios en el código
+	- Organización del repositorio de GitHub
 
-### 👥 Trabajo en Equipo (20%)
-- **Distribución de roles** (10%): Clara y equilibrada
-- **Uso de GitHub** (5%): Commits regulares de todos
-- **Colaboración** (5%): Evidencia de trabajo conjunto
-
-### 🎤 Presentación (10%)
-- **Claridad comunicativa** (5%): Fácil de entender
-- **Profesionalismo** (3%): Preparación y confianza
-- **Manejo del tiempo** (2%): Respeto por los tiempos
+### Presentación (10%)
+**Presentación Final**:
+   - Claridad de la narrativa
+	- Explicación del proceso completo
+	- Visuales y storytelling efectivo
+	- Coherencia con el análisis
+	- Participación equilibrada del equipo
+- **Manejo del tiempo**: Respeto por los tiempos
 
 ---
 
-## 🆘 Recursos de Apoyo
+## Recursos de Apoyo
 
-### 📞 ¿Dónde Buscar Ayuda?
-- **Dudas técnicas:** Discord/Slack del curso
-- **Problemas de datos:** Oficina virtual los viernes
-- **Issues de GitHub:** Para problemas específicos del proyecto
-- **Tutorías de equipo:** Agenda una sesión si tu equipo está atascado
+### ¿Dónde Buscar Ayuda?
+- **Dudas técnicas:** Grupos de Whatsapp del curso
 
-### 📚 Documentación Útil
+### Documentación Útil
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Plotly Documentation](https://plotly.com/python/)
 - [GitHub Guide](https://guides.github.com/)
 
-### 🌟 Consejos de Éxito
+### Consejos de Éxito
 1. **Empieza simple:** Un dashboard básico que funciona > uno complejo que no funciona
 2. **Itera temprano:** Haz versiones simples y mejóralas gradualmente
-3. **Comunica regularmente:** Reúnanse al menos 2 veces por semana
-4. **Usa GitHub:** Commite frecuentemente, no esperes al final
-5. **Práctica la presentación:** Al menos 3 ensayos completos
-6. **Ten un plan B:** Para cuando la tecnología falle
+3. **Usa GitHub:** Commite frecuentemente, no esperes al final
 
 ---
 
-**¡Tu proyecto puede hacer la diferencia! 🌟**
+**¡Tu proyecto puede hacer la diferencia!**
 
 *Recuerda: No se trata solo de mostrar datos, sino de contar una historia que inspire acción.*

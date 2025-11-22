@@ -55,7 +55,7 @@ def load_data():
         df = pd.read_csv('ejemplo-dashboard/data/educacion_latinoamerica.csv')
         return df
     except FileNotFoundError:
-        st.error("❌ No se encontró el archivo de datos. Asegúrate de ejecutar generate_data.py primero.")
+        st.error("No se encontró el archivo de datos. Asegúrate de ejecutar generate_data.py primero.")
         return None
 
 # Función para calcular métricas principales
@@ -161,11 +161,11 @@ def create_heatmap(df_filtered):
 # APLICACIÓN PRINCIPAL
 def main():
     # Header principal
-    st.markdown('<p class="main-header">📚 EduData Latinoamérica</p>', unsafe_allow_html=True)
+    st.markdown('<p class="main-header"> EduData Latinoamérica</p>', unsafe_allow_html=True)
     st.markdown('<p class="sub-header">Dashboard de Análisis Educativo para el ODS 4: Educación de Calidad</p>', unsafe_allow_html=True)
     
     # Badge ODS
-    st.markdown('<div class="ods-badge">🎯 ODS 4: Educación de Calidad</div>', unsafe_allow_html=True)
+    st.markdown('<div class="ods-badge"> ODS 4: Educación de Calidad</div>', unsafe_allow_html=True)
     
     # Cargar datos
     df = load_data()
@@ -173,7 +173,7 @@ def main():
         st.stop()
     
     # Sidebar - Filtros
-    st.sidebar.markdown("## 🔧 Filtros de Análisis")
+    st.sidebar.markdown("## Filtros de Análisis")
     
     # Filtro de años
     years_available = sorted(df['Año'].unique())
@@ -218,14 +218,14 @@ def main():
     ]
     
     if df_filtered.empty:
-        st.warning("⚠️ No hay datos que coincidan con los filtros seleccionados.")
+        st.warning("No hay datos que coincidan con los filtros seleccionados.")
         st.stop()
     
     # Calcular métricas
     metrics = calculate_metrics(df_filtered)
     
     # Mostrar métricas principales
-    st.markdown("## 📊 Métricas Principales")
+    st.markdown("## Métricas Principales")
     
     col1, col2, col3, col4 = st.columns(4)
     
@@ -289,7 +289,7 @@ def main():
     
     with col1:
         st.markdown("""
-        ### 📈 Tendencias Positivas
+        ### Tendencias Positivas
         - La matriculación en educación primaria muestra mejora constante
         - Los países con mayor inversión per cápita tienden a tener mejores tasas de matriculación
         - La brecha urbano-rural se está reduciendo gradualmente
@@ -297,7 +297,7 @@ def main():
     
     with col2:
         st.markdown("""
-        ### ⚠️ Desafíos Identificados
+        ### Desafíos Identificados
         - La deserción en educación secundaria sigue siendo alta
         - Existe una correlación negativa entre deserción y matriculación
         - Las zonas rurales aún enfrentan mayores desafíos de acceso
@@ -305,7 +305,7 @@ def main():
     
     with col3:
         st.markdown("""
-        ### 🎯 Recomendaciones
+        ### Recomendaciones
         - Aumentar la inversión en infraestructura rural
         - Implementar programas de retención para secundaria
         - Fortalecer programas de becas y apoyo económico
@@ -313,9 +313,9 @@ def main():
     
     # Información del proyecto
     st.markdown("---")
-    st.markdown("## 📋 Información del Proyecto")
+    st.markdown("## Información del Proyecto")
     
-    with st.expander("ℹ️ Acerca de este dashboard"):
+    with st.expander("Acerca de este dashboard"):
         st.markdown("""
         **Proyecto:** EduData Latinoamérica - Dashboard de Análisis Educativo
         
@@ -338,7 +338,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown("🌟 **Hecho con ❤️ por el equipo Tech Horizons** | 📧 Contacto: equipo@techhorizons.com")
+    st.markdown("**Hecho por el equipo Tech Horizons** | Contacto: equipo@techhorizons.com")
 
 if __name__ == "__main__":
     main()

@@ -61,8 +61,8 @@ df = pd.DataFrame(data)
 # Guardar como CSV
 df.to_csv('ejemplo-dashboard/data/educacion_latinoamerica.csv', index=False)
 
-print("✅ Datos de ejemplo creados exitosamente!")
-print(f"📊 Dataset generado: {len(df)} registros")
-print(f"📅 Años: {df['Año'].min()} - {df['Año'].max()}")
-print(f"🌍 Países: {len(df['País'].unique())}")
-print(f"📚 Niveles educativos: {len(df['Nivel_Educativo'].unique())}")
+print("Datos de ejemplo creados exitosamente!")
+print(f"Dataset generado: {len(df)} registros")
+print(f"Años: {df['Año'].min()} - {df['Año'].max()}")
+print(f"Países: {len(df['País'].unique())}")
+print(f"Niveles educativos: {len(df['Nivel_Educativo'].unique())}")
