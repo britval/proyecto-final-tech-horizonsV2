@@ -1,0 +1,379 @@
+Año,País,Región,Nivel_Educativo,Tasa_Matriculación,Tasa_Deserción,Inversión_Per_Capita_USD,Población_Estudiantil
+2015,Panama,Urbano,Primaria,100.0,0.0,621.25,64886
+2015,Panama,Urbano,Secundaria,92.6,0.0,536.34,97498
+2015,Panama,Urbano,Universidad,39.3,14.2,486.1,93104
+2015,Panama,Rural,Primaria,91.9,2.1,339.54,35658
+2015,Panama,Rural,Secundaria,64.4,6.9,574.43,77435
+2015,Panama,Rural,Universidad,14.2,22.3,593.37,21394
+2015,Costa Rica,Urbano,Primaria,100.0,1.7,541.26,18792
+2015,Costa Rica,Urbano,Secundaria,91.9,0.4,541.46,33483
+2015,Costa Rica,Urbano,Universidad,40.2,9.8,669.59,29457
+2015,Costa Rica,Rural,Primaria,94.1,0.0,534.39,62995
+2015,Costa Rica,Rural,Secundaria,69.7,7.8,458.96,84065
+2015,Costa Rica,Rural,Universidad,12.5,22.2,698.16,73704
+2015,Guatemala,Urbano,Primaria,77.0,1.1,425.93,58984
+2015,Guatemala,Urbano,Secundaria,62.8,8.6,471.02,23986
+2015,Guatemala,Urbano,Universidad,29.4,16.7,416.93,62251
+2015,Guatemala,Rural,Primaria,69.8,6.7,478.04,62256
+2015,Guatemala,Rural,Secundaria,47.5,9.7,494.38,73335
+2015,Guatemala,Rural,Universidad,9.3,19.1,265.26,18110
+2015,Honduras,Urbano,Primaria,74.2,6.8,487.16,10206
+2015,Honduras,Urbano,Secundaria,61.0,7.0,370.44,60636
+2015,Honduras,Urbano,Universidad,26.7,14.4,572.51,97939
+2015,Honduras,Rural,Primaria,60.7,7.4,401.78,66044
+2015,Honduras,Rural,Secundaria,40.7,12.2,385.18,32299
+2015,Honduras,Rural,Universidad,13.1,19.2,399.66,79163
+2015,El Salvador,Urbano,Primaria,83.6,2.9,359.21,31976
+2015,El Salvador,Urbano,Secundaria,66.9,5.2,397.15,76842
+2015,El Salvador,Urbano,Universidad,33.6,12.7,199.31,13748
+2015,El Salvador,Rural,Primaria,73.3,3.2,502.77,76199
+2015,El Salvador,Rural,Secundaria,50.5,10.7,585.33,64384
+2015,El Salvador,Rural,Universidad,13.3,17.3,422.67,93211
+2015,Nicaragua,Urbano,Primaria,66.4,3.4,274.92,36736
+2015,Nicaragua,Urbano,Secundaria,53.0,9.3,374.14,10854
+2015,Nicaragua,Urbano,Universidad,25.9,14.3,309.77,60859
+2015,Nicaragua,Rural,Primaria,58.2,12.3,214.21,73734
+2015,Nicaragua,Rural,Secundaria,45.4,12.4,405.37,77863
+2015,Nicaragua,Rural,Universidad,7.8,19.2,348.47,99045
+2015,Belice,Urbano,Primaria,82.9,3.6,405.59,61663
+2015,Belice,Urbano,Secundaria,74.8,5.2,404.69,66250
+2015,Belice,Urbano,Universidad,33.7,11.4,401.75,77270
+2015,Belice,Rural,Primaria,79.8,5.1,367.68,81295
+2015,Belice,Rural,Secundaria,57.7,8.6,555.23,57254
+2015,Belice,Rural,Universidad,16.1,20.5,485.67,26646
+2016,Panama,Urbano,Primaria,100.0,1.1,700.03,12049
+2016,Panama,Urbano,Secundaria,96.1,2.8,566.77,82694
+2016,Panama,Urbano,Universidad,35.3,10.3,607.41,16295
+2016,Panama,Rural,Primaria,94.9,2.9,525.06,39299
+2016,Panama,Rural,Secundaria,67.2,8.3,569.23,12869
+2016,Panama,Rural,Universidad,13.3,17.6,548.27,48467
+2016,Costa Rica,Urbano,Primaria,100.0,0.0,663.55,56214
+2016,Costa Rica,Urbano,Secundaria,96.3,0.0,702.07,80091
+2016,Costa Rica,Urbano,Universidad,47.6,10.8,637.06,57333
+2016,Costa Rica,Rural,Primaria,93.8,3.0,547.45,29738
+2016,Costa Rica,Rural,Secundaria,63.7,5.6,731.91,15600
+2016,Costa Rica,Rural,Universidad,21.3,17.0,476.43,55714
+2016,Guatemala,Urbano,Primaria,80.9,4.6,257.34,53525
+2016,Guatemala,Urbano,Secundaria,63.8,7.0,459.23,55236
+2016,Guatemala,Urbano,Universidad,29.5,14.2,382.6,16102
+2016,Guatemala,Rural,Primaria,67.1,6.4,260.07,36641
+2016,Guatemala,Rural,Secundaria,50.6,10.1,450.41,46631
+2016,Guatemala,Rural,Universidad,17.8,17.7,313.58,28070
+2016,Honduras,Urbano,Primaria,71.9,3.3,401.83,88069
+2016,Honduras,Urbano,Secundaria,62.2,4.8,304.66,29190
+2016,Honduras,Urbano,Universidad,22.1,14.6,320.03,99912
+2016,Honduras,Rural,Primaria,64.8,4.7,412.12,87575
+2016,Honduras,Rural,Secundaria,48.4,11.6,351.35,23403
+2016,Honduras,Rural,Universidad,14.0,14.1,525.03,62921
+2016,El Salvador,Urbano,Primaria,75.9,5.5,389.76,80313
+2016,El Salvador,Urbano,Secundaria,68.7,5.3,517.56,78027
+2016,El Salvador,Urbano,Universidad,33.1,12.3,527.88,68335
+2016,El Salvador,Rural,Primaria,72.3,10.3,581.69,49734
+2016,El Salvador,Rural,Secundaria,51.2,8.8,560.4,35945
+2016,El Salvador,Rural,Universidad,11.9,18.6,498.59,84740
+2016,Nicaragua,Urbano,Primaria,62.4,6.8,362.87,23500
+2016,Nicaragua,Urbano,Secundaria,58.2,9.1,465.59,69638
+2016,Nicaragua,Urbano,Universidad,25.3,13.8,302.4,54078
+2016,Nicaragua,Rural,Primaria,59.2,7.7,481.04,45247
+2016,Nicaragua,Rural,Secundaria,40.9,14.0,497.92,33049
+2016,Nicaragua,Rural,Universidad,9.5,18.1,402.92,51975
+2016,Belice,Urbano,Primaria,83.1,4.3,467.92,59115
+2016,Belice,Urbano,Secundaria,70.7,7.2,461.35,28071
+2016,Belice,Urbano,Universidad,34.2,16.8,470.43,48304
+2016,Belice,Rural,Primaria,76.2,2.5,503.22,30764
+2016,Belice,Rural,Secundaria,53.0,9.8,529.65,85353
+2016,Belice,Rural,Universidad,12.6,15.0,375.78,30358
+2017,Panama,Urbano,Primaria,100.0,0.0,648.96,43496
+2017,Panama,Urbano,Secundaria,89.9,0.8,646.44,54425
+2017,Panama,Urbano,Universidad,44.5,7.3,727.19,27955
+2017,Panama,Rural,Primaria,96.1,3.3,484.93,69031
+2017,Panama,Rural,Secundaria,67.5,8.6,634.09,53286
+2017,Panama,Rural,Universidad,14.2,16.4,578.78,24397
+2017,Costa Rica,Urbano,Primaria,100.0,0.0,507.19,89459
+2017,Costa Rica,Urbano,Secundaria,92.1,1.0,504.49,92637
+2017,Costa Rica,Urbano,Universidad,40.6,15.9,476.88,99112
+2017,Costa Rica,Rural,Primaria,98.7,0.0,605.97,70566
+2017,Costa Rica,Rural,Secundaria,69.0,6.7,612.32,99930
+2017,Costa Rica,Rural,Universidad,23.3,16.6,731.16,87052
+2017,Guatemala,Urbano,Primaria,76.2,7.1,359.56,98858
+2017,Guatemala,Urbano,Secundaria,60.9,6.9,418.56,64693
+2017,Guatemala,Urbano,Universidad,32.5,12.6,346.86,29870
+2017,Guatemala,Rural,Primaria,73.1,0.7,371.88,36790
+2017,Guatemala,Rural,Secundaria,51.6,9.4,398.48,14748
+2017,Guatemala,Rural,Universidad,10.0,20.9,246.81,40355
+2017,Honduras,Urbano,Primaria,76.1,6.3,411.95,38016
+2017,Honduras,Urbano,Secundaria,61.3,7.9,311.69,77641
+2017,Honduras,Urbano,Universidad,27.9,14.4,382.33,23843
+2017,Honduras,Rural,Primaria,62.4,6.1,302.47,62736
+2017,Honduras,Rural,Secundaria,49.6,13.7,366.68,76203
+2017,Honduras,Rural,Universidad,15.2,15.0,338.16,71529
+2017,El Salvador,Urbano,Primaria,77.7,3.3,357.15,14835
+2017,El Salvador,Urbano,Secundaria,65.0,3.2,455.81,67043
+2017,El Salvador,Urbano,Universidad,26.2,16.1,414.56,80340
+2017,El Salvador,Rural,Primaria,75.2,2.3,580.67,94791
+2017,El Salvador,Rural,Secundaria,52.4,11.6,398.67,71813
+2017,El Salvador,Rural,Universidad,10.2,18.5,331.73,14158
+2017,Nicaragua,Urbano,Primaria,71.0,5.1,301.41,85880
+2017,Nicaragua,Urbano,Secundaria,57.3,5.3,308.04,50943
+2017,Nicaragua,Urbano,Universidad,26.2,13.8,464.72,90642
+2017,Nicaragua,Rural,Primaria,61.2,10.8,371.87,20916
+2017,Nicaragua,Rural,Secundaria,41.1,14.5,298.23,44816
+2017,Nicaragua,Rural,Universidad,9.6,18.3,386.01,31949
+2017,Belice,Urbano,Primaria,87.5,3.5,449.85,71877
+2017,Belice,Urbano,Secundaria,71.7,5.9,589.61,47131
+2017,Belice,Urbano,Universidad,30.8,18.9,575.71,87709
+2017,Belice,Rural,Primaria,76.3,2.8,511.74,91317
+2017,Belice,Rural,Secundaria,55.6,9.0,594.95,35934
+2017,Belice,Rural,Universidad,18.3,18.1,437.66,93251
+2018,Panama,Urbano,Primaria,99.9,3.9,521.04,62329
+2018,Panama,Urbano,Secundaria,91.1,0.0,543.89,83477
+2018,Panama,Urbano,Universidad,33.8,13.1,406.51,16254
+2018,Panama,Rural,Primaria,97.0,0.0,603.64,51240
+2018,Panama,Rural,Secundaria,67.3,8.4,441.57,21314
+2018,Panama,Rural,Universidad,19.5,14.5,488.51,89252
+2018,Costa Rica,Urbano,Primaria,100.0,4.8,665.39,91818
+2018,Costa Rica,Urbano,Secundaria,92.6,0.1,599.61,65645
+2018,Costa Rica,Urbano,Universidad,40.6,9.8,595.87,97731
+2018,Costa Rica,Rural,Primaria,96.9,0.0,433.77,18717
+2018,Costa Rica,Rural,Secundaria,66.0,9.5,764.17,14621
+2018,Costa Rica,Rural,Universidad,18.0,18.1,629.17,65658
+2018,Guatemala,Urbano,Primaria,74.6,5.2,521.9,45854
+2018,Guatemala,Urbano,Secundaria,58.1,9.0,360.9,20267
+2018,Guatemala,Urbano,Universidad,27.6,12.3,534.97,83794
+2018,Guatemala,Rural,Primaria,72.1,5.0,573.83,16371
+2018,Guatemala,Rural,Secundaria,56.6,10.7,364.76,82274
+2018,Guatemala,Rural,Universidad,18.2,13.3,309.13,94659
+2018,Honduras,Urbano,Primaria,75.5,8.7,270.11,37285
+2018,Honduras,Urbano,Secundaria,63.2,6.1,280.59,82303
+2018,Honduras,Urbano,Universidad,26.6,13.9,312.86,37446
+2018,Honduras,Rural,Primaria,63.6,8.9,385.89,97886
+2018,Honduras,Rural,Secundaria,44.8,12.6,412.57,63441
+2018,Honduras,Rural,Universidad,9.8,22.1,496.47,56514
+2018,El Salvador,Urbano,Primaria,81.0,4.8,479.45,77584
+2018,El Salvador,Urbano,Secundaria,67.1,3.5,492.81,11828
+2018,El Salvador,Urbano,Universidad,33.5,13.3,499.96,69383
+2018,El Salvador,Rural,Primaria,68.7,5.1,489.62,73076
+2018,El Salvador,Rural,Secundaria,59.7,6.9,406.88,93524
+2018,El Salvador,Rural,Universidad,14.7,17.8,373.66,80792
+2018,Nicaragua,Urbano,Primaria,66.5,4.2,362.85,15951
+2018,Nicaragua,Urbano,Secundaria,58.6,9.4,384.81,68596
+2018,Nicaragua,Urbano,Universidad,24.5,14.2,377.61,33930
+2018,Nicaragua,Rural,Primaria,59.7,9.5,367.04,26984
+2018,Nicaragua,Rural,Secundaria,42.7,13.4,332.49,49711
+2018,Nicaragua,Rural,Universidad,15.9,13.1,325.39,97062
+2018,Belice,Urbano,Primaria,93.0,0.0,341.05,28381
+2018,Belice,Urbano,Secundaria,68.7,1.7,578.92,93122
+2018,Belice,Urbano,Universidad,30.4,13.1,495.84,69379
+2018,Belice,Rural,Primaria,81.7,4.6,592.47,61356
+2018,Belice,Rural,Secundaria,54.1,7.5,524.73,77779
+2018,Belice,Rural,Universidad,12.4,20.5,486.18,53872
+2019,Panama,Urbano,Primaria,100.0,0.0,464.26,74435
+2019,Panama,Urbano,Secundaria,83.4,5.9,501.09,74772
+2019,Panama,Urbano,Universidad,32.8,12.7,696.35,81315
+2019,Panama,Rural,Primaria,100.0,0.0,714.56,10814
+2019,Panama,Rural,Secundaria,70.4,2.9,520.43,37306
+2019,Panama,Rural,Universidad,17.2,16.8,629.83,74644
+2019,Costa Rica,Urbano,Primaria,100.0,0.9,603.78,65176
+2019,Costa Rica,Urbano,Secundaria,90.6,5.1,516.21,54327
+2019,Costa Rica,Urbano,Universidad,41.3,10.8,528.72,29256
+2019,Costa Rica,Rural,Primaria,98.5,0.0,448.57,49282
+2019,Costa Rica,Rural,Secundaria,65.9,9.9,556.83,49224
+2019,Costa Rica,Rural,Universidad,18.0,18.1,308.12,83509
+2019,Guatemala,Urbano,Primaria,74.1,2.6,373.14,51914
+2019,Guatemala,Urbano,Secundaria,71.0,3.5,388.08,77526
+2019,Guatemala,Urbano,Universidad,33.1,12.0,327.45,26241
+2019,Guatemala,Rural,Primaria,67.8,4.4,441.33,56163
+2019,Guatemala,Rural,Secundaria,56.8,5.4,408.79,72823
+2019,Guatemala,Rural,Universidad,17.4,21.7,404.74,51949
+2019,Honduras,Urbano,Primaria,70.9,7.2,366.39,69676
+2019,Honduras,Urbano,Secundaria,62.5,4.6,484.9,82847
+2019,Honduras,Urbano,Universidad,26.1,15.0,355.88,38865
+2019,Honduras,Rural,Primaria,70.3,2.9,584.7,21485
+2019,Honduras,Rural,Secundaria,43.5,11.7,396.74,50806
+2019,Honduras,Rural,Universidad,12.5,15.8,444.12,85629
+2019,El Salvador,Urbano,Primaria,87.0,2.9,403.17,86534
+2019,El Salvador,Urbano,Secundaria,73.1,3.8,371.96,73230
+2019,El Salvador,Urbano,Universidad,30.2,14.9,321.12,74929
+2019,El Salvador,Rural,Primaria,76.4,7.2,460.73,22175
+2019,El Salvador,Rural,Secundaria,57.9,6.4,369.14,27327
+2019,El Salvador,Rural,Universidad,11.9,18.1,364.14,26032
+2019,Nicaragua,Urbano,Primaria,69.5,3.6,414.68,33236
+2019,Nicaragua,Urbano,Secundaria,57.4,6.0,292.86,86918
+2019,Nicaragua,Urbano,Universidad,28.8,11.4,437.27,72516
+2019,Nicaragua,Rural,Primaria,55.0,9.4,343.23,27771
+2019,Nicaragua,Rural,Secundaria,46.9,10.6,326.5,45954
+2019,Nicaragua,Rural,Universidad,16.5,20.1,356.14,70774
+2019,Belice,Urbano,Primaria,89.4,0.0,356.0,86908
+2019,Belice,Urbano,Secundaria,73.3,7.5,553.63,66133
+2019,Belice,Urbano,Universidad,28.6,15.4,630.5,88411
+2019,Belice,Rural,Primaria,80.7,4.4,538.44,56828
+2019,Belice,Rural,Secundaria,53.0,10.4,435.77,99563
+2019,Belice,Rural,Universidad,17.9,15.6,580.94,96145
+2020,Panama,Urbano,Primaria,100.0,0.0,570.54,88617
+2020,Panama,Urbano,Secundaria,88.2,4.0,536.29,34762
+2020,Panama,Urbano,Universidad,42.7,7.9,778.94,14853
+2020,Panama,Rural,Primaria,95.1,0.9,426.9,69129
+2020,Panama,Rural,Secundaria,66.8,6.9,831.61,76017
+2020,Panama,Rural,Universidad,18.7,15.3,802.83,25048
+2020,Costa Rica,Urbano,Primaria,100.0,0.0,663.32,23350
+2020,Costa Rica,Urbano,Secundaria,99.3,2.1,506.64,16960
+2020,Costa Rica,Urbano,Universidad,38.8,11.8,697.43,81431
+2020,Costa Rica,Rural,Primaria,100.0,2.6,654.24,64756
+2020,Costa Rica,Rural,Secundaria,74.0,6.1,566.93,87454
+2020,Costa Rica,Rural,Universidad,14.8,16.5,589.04,37935
+2020,Guatemala,Urbano,Primaria,79.8,4.5,421.73,92310
+2020,Guatemala,Urbano,Secundaria,62.7,8.4,382.94,93441
+2020,Guatemala,Urbano,Universidad,34.6,12.4,508.53,76150
+2020,Guatemala,Rural,Primaria,62.4,7.7,363.02,45435
+2020,Guatemala,Rural,Secundaria,47.4,13.1,379.12,66846
+2020,Guatemala,Rural,Universidad,14.9,17.4,511.09,25317
+2020,Honduras,Urbano,Primaria,76.8,1.7,395.03,90765
+2020,Honduras,Urbano,Secundaria,65.2,4.8,197.13,76081
+2020,Honduras,Urbano,Universidad,30.9,13.9,466.74,71916
+2020,Honduras,Rural,Primaria,64.2,7.1,333.36,43039
+2020,Honduras,Rural,Secundaria,46.2,13.7,493.47,42733
+2020,Honduras,Rural,Universidad,12.2,17.5,364.9,34951
+2020,El Salvador,Urbano,Primaria,80.2,1.9,260.64,99431
+2020,El Salvador,Urbano,Secundaria,66.9,5.3,493.16,47573
+2020,El Salvador,Urbano,Universidad,34.7,13.5,412.32,91470
+2020,El Salvador,Rural,Primaria,72.8,6.7,382.19,44157
+2020,El Salvador,Rural,Secundaria,51.6,8.6,372.03,65554
+2020,El Salvador,Rural,Universidad,13.6,18.2,468.2,83781
+2020,Nicaragua,Urbano,Primaria,67.9,4.1,405.71,34578
+2020,Nicaragua,Urbano,Secundaria,61.6,6.6,394.31,17287
+2020,Nicaragua,Urbano,Universidad,20.3,14.2,337.33,27602
+2020,Nicaragua,Rural,Primaria,56.7,9.7,425.85,74772
+2020,Nicaragua,Rural,Secundaria,41.8,13.6,333.52,51873
+2020,Nicaragua,Rural,Universidad,13.3,16.3,365.67,55648
+2020,Belice,Urbano,Primaria,90.7,1.9,617.85,81719
+2020,Belice,Urbano,Secundaria,77.0,1.3,491.63,96231
+2020,Belice,Urbano,Universidad,35.8,15.1,523.84,36292
+2020,Belice,Rural,Primaria,80.5,5.9,587.85,12469
+2020,Belice,Rural,Secundaria,57.1,8.3,446.25,64302
+2020,Belice,Rural,Universidad,17.7,16.1,463.2,32890
+2021,Panama,Urbano,Primaria,100.0,0.0,460.81,85713
+2021,Panama,Urbano,Secundaria,93.6,2.9,386.17,76672
+2021,Panama,Urbano,Universidad,38.5,12.6,525.67,86242
+2021,Panama,Rural,Primaria,97.1,1.1,723.52,52207
+2021,Panama,Rural,Secundaria,67.9,8.6,611.29,92197
+2021,Panama,Rural,Universidad,17.4,16.9,594.94,17491
+2021,Costa Rica,Urbano,Primaria,100.0,0.0,590.29,30953
+2021,Costa Rica,Urbano,Secundaria,92.9,5.5,489.91,31427
+2021,Costa Rica,Urbano,Universidad,47.9,10.3,511.15,36029
+2021,Costa Rica,Rural,Primaria,100.0,1.4,569.48,99186
+2021,Costa Rica,Rural,Secundaria,68.3,6.0,649.59,33411
+2021,Costa Rica,Rural,Universidad,23.2,16.3,641.45,62307
+2021,Guatemala,Urbano,Primaria,75.2,6.7,452.02,91871
+2021,Guatemala,Urbano,Secundaria,66.7,6.0,523.94,15626
+2021,Guatemala,Urbano,Universidad,33.7,12.8,343.13,36431
+2021,Guatemala,Rural,Primaria,69.0,7.0,455.19,36385
+2021,Guatemala,Rural,Secundaria,50.8,12.1,427.42,84318
+2021,Guatemala,Rural,Universidad,16.4,20.0,201.5,49110
+2021,Honduras,Urbano,Primaria,71.4,6.4,468.69,78760
+2021,Honduras,Urbano,Secundaria,64.5,4.3,420.46,18712
+2021,Honduras,Urbano,Universidad,29.1,11.3,384.61,59268
+2021,Honduras,Rural,Primaria,64.7,4.2,522.4,39759
+2021,Honduras,Rural,Secundaria,47.2,10.5,362.02,93309
+2021,Honduras,Rural,Universidad,12.2,20.0,430.66,61195
+2021,El Salvador,Urbano,Primaria,80.8,3.7,424.69,58787
+2021,El Salvador,Urbano,Secundaria,67.5,8.9,368.84,71681
+2021,El Salvador,Urbano,Universidad,33.4,9.2,403.99,98652
+2021,El Salvador,Rural,Primaria,73.2,5.0,362.79,91061
+2021,El Salvador,Rural,Secundaria,59.4,9.4,376.45,19078
+2021,El Salvador,Rural,Universidad,17.5,17.2,436.29,67660
+2021,Nicaragua,Urbano,Primaria,74.9,5.7,377.53,13389
+2021,Nicaragua,Urbano,Secundaria,61.0,8.8,441.56,36630
+2021,Nicaragua,Urbano,Universidad,29.5,18.1,444.6,43662
+2021,Nicaragua,Rural,Primaria,63.9,8.0,502.78,46877
+2021,Nicaragua,Rural,Secundaria,43.0,10.4,327.58,30022
+2021,Nicaragua,Rural,Universidad,14.8,20.4,335.72,38380
+2021,Belice,Urbano,Primaria,90.4,4.2,716.85,26082
+2021,Belice,Urbano,Secundaria,74.7,5.1,460.8,89561
+2021,Belice,Urbano,Universidad,30.4,13.0,328.98,40027
+2021,Belice,Rural,Primaria,78.4,6.6,425.27,57908
+2021,Belice,Rural,Secundaria,53.3,6.4,470.2,82099
+2021,Belice,Rural,Universidad,19.6,15.9,416.42,87539
+2022,Panama,Urbano,Primaria,100.0,0.0,638.05,58364
+2022,Panama,Urbano,Secundaria,92.0,4.1,536.05,67056
+2022,Panama,Urbano,Universidad,43.2,10.0,585.62,14648
+2022,Panama,Rural,Primaria,96.1,1.9,509.23,80135
+2022,Panama,Rural,Secundaria,74.9,6.8,579.5,71272
+2022,Panama,Rural,Universidad,17.9,13.8,677.69,31927
+2022,Costa Rica,Urbano,Primaria,100.0,3.1,486.8,62233
+2022,Costa Rica,Urbano,Secundaria,93.2,0.0,604.23,29816
+2022,Costa Rica,Urbano,Universidad,39.1,11.3,747.59,92495
+2022,Costa Rica,Rural,Primaria,100.0,0.0,401.05,45946
+2022,Costa Rica,Rural,Secundaria,75.0,7.4,714.67,36155
+2022,Costa Rica,Rural,Universidad,20.5,18.1,556.46,28309
+2022,Guatemala,Urbano,Primaria,78.7,3.9,394.27,57614
+2022,Guatemala,Urbano,Secundaria,67.4,4.0,450.34,86260
+2022,Guatemala,Urbano,Universidad,30.9,14.7,352.9,51235
+2022,Guatemala,Rural,Primaria,71.5,7.5,427.72,66503
+2022,Guatemala,Rural,Secundaria,45.2,16.8,330.31,32911
+2022,Guatemala,Rural,Universidad,16.7,16.8,409.65,20225
+2022,Honduras,Urbano,Primaria,76.5,3.1,340.62,58320
+2022,Honduras,Urbano,Secundaria,61.7,7.6,525.26,91040
+2022,Honduras,Urbano,Universidad,30.3,14.3,344.85,47208
+2022,Honduras,Rural,Primaria,68.1,8.6,464.03,41890
+2022,Honduras,Rural,Secundaria,51.0,13.4,300.75,27087
+2022,Honduras,Rural,Universidad,13.4,19.3,356.07,37208
+2022,El Salvador,Urbano,Primaria,83.5,2.3,450.7,39165
+2022,El Salvador,Urbano,Secundaria,69.1,5.9,490.26,46321
+2022,El Salvador,Urbano,Universidad,35.4,14.2,534.63,11367
+2022,El Salvador,Rural,Primaria,75.0,7.0,311.54,61924
+2022,El Salvador,Rural,Secundaria,51.2,6.9,560.53,45643
+2022,El Salvador,Rural,Universidad,13.7,21.7,519.52,18927
+2022,Nicaragua,Urbano,Primaria,66.1,5.6,361.88,70233
+2022,Nicaragua,Urbano,Secundaria,57.4,8.5,463.43,32612
+2022,Nicaragua,Urbano,Universidad,28.2,16.6,318.2,11177
+2022,Nicaragua,Rural,Primaria,62.9,4.2,361.97,56819
+2022,Nicaragua,Rural,Secundaria,49.7,11.2,391.63,88714
+2022,Nicaragua,Rural,Universidad,16.6,19.3,356.08,74106
+2022,Belice,Urbano,Primaria,88.2,3.1,433.0,56881
+2022,Belice,Urbano,Secundaria,77.2,5.3,350.1,67716
+2022,Belice,Urbano,Universidad,32.0,11.4,466.19,64691
+2022,Belice,Rural,Primaria,84.2,1.7,590.28,53596
+2022,Belice,Rural,Secundaria,54.6,8.6,499.5,58713
+2022,Belice,Rural,Universidad,14.1,16.1,496.22,99022
+2023,Panama,Urbano,Primaria,100.0,0.0,703.72,31675
+2023,Panama,Urbano,Secundaria,91.8,1.9,502.77,86666
+2023,Panama,Urbano,Universidad,50.1,10.8,613.72,86153
+2023,Panama,Rural,Primaria,100.0,1.5,522.09,81831
+2023,Panama,Rural,Secundaria,66.3,5.4,470.98,65826
+2023,Panama,Rural,Universidad,23.2,16.2,648.15,98920
+2023,Costa Rica,Urbano,Primaria,100.0,0.0,830.61,74174
+2023,Costa Rica,Urbano,Secundaria,92.3,2.5,533.54,27014
+2023,Costa Rica,Urbano,Universidad,40.3,12.2,452.71,50390
+2023,Costa Rica,Rural,Primaria,99.5,0.0,605.79,37213
+2023,Costa Rica,Rural,Secundaria,71.4,6.1,525.0,14358
+2023,Costa Rica,Rural,Universidad,19.2,14.6,763.5,42117
+2023,Guatemala,Urbano,Primaria,85.1,2.1,431.2,43893
+2023,Guatemala,Urbano,Secundaria,71.6,2.4,445.07,64253
+2023,Guatemala,Urbano,Universidad,34.4,10.5,269.48,64624
+2023,Guatemala,Rural,Primaria,76.7,3.4,302.08,82240
+2023,Guatemala,Rural,Secundaria,53.5,11.2,415.69,66549
+2023,Guatemala,Rural,Universidad,14.2,20.5,469.65,55113
+2023,Honduras,Urbano,Primaria,78.9,1.8,500.44,63363
+2023,Honduras,Urbano,Secundaria,65.3,7.1,323.93,70963
+2023,Honduras,Urbano,Universidad,30.6,14.6,324.3,98733
+2023,Honduras,Rural,Primaria,69.3,9.3,351.99,39328
+2023,Honduras,Rural,Secundaria,42.0,10.6,318.5,92205
+2023,Honduras,Rural,Universidad,17.6,21.1,404.5,66273
+2023,El Salvador,Urbano,Primaria,86.0,3.5,438.21,19715
+2023,El Salvador,Urbano,Secundaria,79.4,2.0,349.37,94328
+2023,El Salvador,Urbano,Universidad,28.2,15.4,331.21,46035
+2023,El Salvador,Rural,Primaria,69.8,6.8,544.18,80971
+2023,El Salvador,Rural,Secundaria,53.8,10.2,387.72,70631
+2023,El Salvador,Rural,Universidad,20.2,19.5,447.12,62290
+2023,Nicaragua,Urbano,Primaria,68.5,8.3,337.75,16721
+2023,Nicaragua,Urbano,Secundaria,57.7,7.6,311.94,82909
+2023,Nicaragua,Urbano,Universidad,28.7,14.6,334.24,74309
+2023,Nicaragua,Rural,Primaria,64.1,9.0,238.16,41552
+2023,Nicaragua,Rural,Secundaria,50.2,11.1,350.72,61112
+2023,Nicaragua,Rural,Universidad,10.6,18.9,419.85,27347
+2023,Belice,Urbano,Primaria,91.0,1.9,287.78,43613
+2023,Belice,Urbano,Secundaria,74.1,4.4,506.94,45262
+2023,Belice,Urbano,Universidad,31.9,14.8,587.77,82146
+2023,Belice,Rural,Primaria,84.2,5.5,268.6,52913
+2023,Belice,Rural,Secundaria,55.9,8.7,399.27,80984
+2023,Belice,Rural,Universidad,16.3,15.3,526.9,16406
