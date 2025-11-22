@@ -1,5 +1,7 @@
 # 🚀 Proyecto Final - Tech Horizons
 ## Análisis de Datos para Impacto Social usando los ODS
+Créditos: Ing. Carlos Campbell - Coordinador de actividades académicas
+
 
 ### 📋 Descripción General
 Este repositorio contiene todos los recursos necesarios para desarrollar tu **Proyecto Final** del curso de Ciencia de Datos y Analítica con Python. El objetivo es aplicar todas las habilidades aprendidas para crear una solución que genere **impacto social** alineada con los **Objetivos de Desarrollo Sostenible (ODS)**.
