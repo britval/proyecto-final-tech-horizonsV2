@@ -1,35 +1,35 @@
-# 🎤 Guía para la Presentación Final
+# Guía para la Presentación Final
 ## Cómo Presentar tu Proyecto de Impacto Social
 
 ---
 
-## 🎯 Objetivos de la Presentación
+## Objetivos de la Presentación
 
 Tu presentación debe demostrar:
-- ✅ **Competencia técnica:** Dominio de herramientas de ciencia de datos
-- ✅ **Conciencia social:** Comprensión del problema y su impacto
-- ✅ **Pensamiento crítico:** Análisis profundo y conclusiones válidas
-- ✅ **Comunicación efectiva:** Habilidad para explicar conceptos técnicos
+- **Competencia técnica:** Dominio de herramientas de ciencia de datos
+- **Conciencia social:** Comprensión del problema y su impacto
+- **Pensamiento crítico:** Análisis profundo y conclusiones válidas
+- **Comunicación efectiva:** Habilidad para explicar conceptos técnicos
 
 ---
 
-## ⏰ Estructura Sugerida (10-15 minutos)
+## Estructura Sugerida (10-15 minutos)
 
-### 🎬 1. Introducción (2-3 minutos)
+### 1. Introducción (2-3 minutos)
 **Contenido:**
 - Presentación del equipo y roles
 - Nombre del del equipo y lema/slogan
 
 **Tips:**
-- 💡 Empieza con una estadística impactante
-- 💡 Usa una pregunta retórica para enganchar
+- Empieza con una estadística impactante
+- Usa una pregunta retórica para enganchar
 
 **Ejemplo de apertura:**
 > "¿Sabían que en Centroamérica, 1 de cada 4 jóvenes abandona la escuela antes de completar la secundaria? Somos [nombres], y hoy les presentamos **EduData Latinoamérica**, una herramienta que *convierte datos en oportunidades educativas*."
 
 ---
 
-### 🌍 2. Problemática y ODS (3-4 minutos)
+### 2. Problemática y ODS (3-4 minutos)
 
 **Contenido:**
 - ODS seleccionado y justificación
@@ -43,13 +43,13 @@ Tu presentación debe demostrar:
 3. **Por qué necesitamos datos:** Gap de información actual
 
 **Tips:**
-- 📊 Usa 1-2 gráficos simples para ilustrar la magnitud
-- 🌍 Conecta lo global con lo local
-- 👥 Humaniza el problema (¿cómo afecta a personas reales?)
+- Usa 1-2 gráficos simples para ilustrar la magnitud
+- Conecta lo global con lo local
+- Humaniza el problema (¿cómo afecta a personas reales?)
 
 ---
 
-### 🔬 3. Metodología y Datos (2-3 minutos)
+### 3. Metodología y Datos (2-3 minutos)
 
 **Contenido:**
 - Fuentes de datos utilizadas
@@ -64,13 +64,13 @@ Tu presentación debe demostrar:
 - **Desafíos:** "El principal reto fue... y lo resolvimos..."
 
 **Tips:**
-- 🔧 No te enredes en detalles técnicos excesivos
-- 📈 Menciona el volumen de datos para dar credibilidad
-- 💻 Muestra tu stack tecnológico visualmente
+- No te enredes en detalles técnicos excesivos
+- Menciona el volumen de datos para dar credibilidad
+- Muestra tu stack tecnológico visualmente
 
 ---
 
-### 🎯 4. Demo y Resultados (5-6 minutos)
+### 4. Demo y Resultados (5-6 minutos)
 **¡La sección más importante!**
 
 **Contenido:**
@@ -86,18 +86,18 @@ Tu presentación debe demostrar:
 4. **Visualización estrella:** El gráfico más impactante
 
 **Tips para la Demo:**
-- 🖥️ **Practica 10+ veces** - debe ser fluida
-- 📱 **Ten screenshots de backup** por si falla la tecnología
-- 🎯 **Enfócate en insights, no en la tecnología**
-- 📊 **Explica qué significa cada gráfico**
-- ⚡ **Mantén ritmo dinámico** - no te quedes en una pantalla
+- **Practica 10+ veces** - debe ser fluida
+- **Ten screenshots de backup** por si falla la tecnología
+- **Enfócate en insights, no en la tecnología**
+- **Explica qué significa cada gráfico**
+- **Mantén ritmo dinámico** - no te quedes en una pantalla
 
 **Ejemplos de Insights Bien Presentados:**
 > "Como pueden ver en este gráfico, descubrimos que existe una correlación fuerte entre la inversión per cápita en educación y las tasas de matriculación. Esto significa que **por cada $100 dólares adicionales invertidos, la matriculación aumenta aproximadamente 5%**."
 
 ---
 
-### 💡 5. Impacto y Recomendaciones (2-3 minutos)
+### 5. Impacto y Recomendaciones (2-3 minutos)
 
 **Contenido:**
 - ¿Cómo tu solución puede generar cambio?
@@ -111,40 +111,25 @@ Tu presentación debe demostrar:
 - **Escalabilidad:** "Esto se podría expandir a..."
 
 **Tips:**
-- 🎯 Sé específico y realista en las recomendaciones
-- 💼 Piensa en quién usaría realmente tu solución
-- 📈 Cuantifica el impacto potencial cuando sea posible
+- Sé específico y realista en las recomendaciones
+- Piensa en quién usaría realmente tu solución
+- Cuantifica el impacto potencial cuando sea posible
 
----
+## Consejos de Diseño para Slides
 
-### ❓ 6. Preguntas y Respuestas (2-3 minutos)
-
-**Preparación:**
-- Anticipa 5-6 preguntas comunes
-- Prepara respuestas concisas
-
-**Preguntas Típicas:**
-- ¿Cómo validaron la calidad de los datos?
-- ¿Qué limitaciones tiene su análisis?
-- ¿Cómo se compara con otras soluciones existentes?
-- ¿Cuál fue el mayor desafío técnico?
-
----
-
-## 🎨 Consejos de Diseño para Slides
-
-### 📐 Principios Básicos
+### Principios Básicos
 - **Regla 6x6:** Máximo 6 líneas, 6 palabras por línea
 - **Contraste alto:** Texto oscuro sobre fondo claro (o viceversa)
+- **Fuentes grandes:** Mínimo 24pt para que se vea desde atrás
 - **Consistencia:** Mismo formato en todas las slides
 
-### 🖼️ Elementos Visuales Efectivos
+### Elementos Visuales Efectivos
 - **Gráficos grandes:** Que ocupen al menos 50% de la slide
 - **Colores del ODS:** Usa la paleta oficial del ODS que elegiste
 - **Iconografía:** Usa íconos para conceptos abstractos
 - **Screenshots:** De tu dashboard en acción
 
-### 📱 Template de Slides Sugerido
+### Template de Slides Sugerido
 
 **Slide 1: Título**
 ```
@@ -198,41 +183,41 @@ Agradecimientos
 
 ---
 
-## 🎭 Consejos de Presentación
+## Consejos de Presentación
 
-### 🗣️ Habilidades de Comunicación
+### Habilidades de Comunicación
 
 **Antes de la Presentación:**
-- 🎯 **Practica con tiempo:** Ensaya con cronómetro
-- 👥 **Ensaya con audiencia:** Amigos, familia, otros equipos
-- 📝 **Prepara notas:** Puntos clave, no script completo
-- 🎬 **Graba un ensayo:** Para identificar muletillas y gestos
+- **Practica con tiempo:** Ensaya con cronómetro
+- **Ensaya con audiencia:** Amigos, familia, otros equipos
+- **Prepara notas:** Puntos clave, no script completo
+- **Graba un ensayo:** Para identificar muletillas y gestos
 
 **Durante la Presentación:**
-- 👀 **Contacto visual:** Con diferentes personas en la audiencia
-- 🎵 **Varía el tono:** Evita monotonía
-- 🤲 **Gestos naturales:** Usa las manos para enfatizar
-- 😊 **Sonríe y muestra pasión:** Tu entusiasmo es contagioso
+- **Contacto visual:** Con diferentes personas en la audiencia
+- **Varía el tono:** Evita monotonía
+- **Gestos naturales:** Usa las manos para enfatizar
+- **Sonríe y muestra pasión:** Tu entusiasmo es contagioso
 
 **Manejo de Nervios:**
-- 🫁 **Respiración profunda:** Antes de empezar
-- 💧 **Hidrátate bien:** Pero no demasiado
-- 👥 **Ve a la audiencia como aliados:** Quieren que tengas éxito
-- 🎯 **Enfócate en el mensaje:** No en ti mismo
+- **Respiración profunda:** Antes de empezar
+- **Hidrátate bien:** Pero no demasiado
+- **Ve a la audiencia como aliados:** Quieren que tengas éxito
+- **Enfócate en el mensaje:** No en ti mismo
 
 ---
 
-## 🎬 Preparación de la Demo
+## Preparación de la Demo
 
-### 📋 Checklist Técnico
-- [ ] **Conexión a internet estable**
-- [ ] **Dashboard funciona en el browser que usarás**
-- [ ] **Screenshots de backup preparados**
-- [ ] **Datos cargados y actualizados**
-- [ ] **Filtros funcionan correctamente**
-- [ ] **Gráficos se cargan rápidamente**
+### Checklist Técnico
+- **Conexión a internet estable**
+- **Dashboard funciona en el browser que usarás**
+- **Screenshots de backup preparados**
+- **Datos cargados y actualizados**
+- **Filtros funcionan correctamente**
+- **Gráficos se cargan rápidamente**
 
-### 🎮 Script de Demo
+### Script de Demo
 1. **"Este es nuestro dashboard..."** (Vista general - 15 seg)
 2. **"Pueden filtrar por..."** (Mostrar interactividad - 30 seg)
 3. **"Nuestro primer hallazgo..."** (Insight 1 con gráfico - 45 seg)
@@ -242,7 +227,7 @@ Agradecimientos
 
 **Total: ~4 minutos de demo pura**
 
-### 🚨 Plan B para Problemas Técnicos
+### Plan B para Problemas Técnicos
 - **Internet lento:** Screenshots preparados
 - **Dashboard no carga:** Video grabado de la demo
 - **Laptop falla:** Tener el proyecto en USB/nube
@@ -250,56 +235,36 @@ Agradecimientos
 
 ---
 
-## 👥 Coordinación del Equipo
+## Coordinación del Equipo
 
-### 🎭 Distribución de Responsabilidades
+### Distribución de Responsabilidades
 - **Presentador principal:** Introduce y concluye
 - **Demo specialist:** Maneja la demostración técnica
 - **Data storyteller:** Explica insights y metodología
 - **Q&A handler:** Lidera la sesión de preguntas
 
-### 🔄 Transiciones Suaves
+### Transiciones Suaves
 **Ejemplos de frases de transición:**
 - "Ahora [nombre] nos mostrará cómo funciona nuestra solución..."
 - "Como pueden ver en los resultados que [nombre] acaba de mostrar..."
 - "Para profundizar en el impacto, [nombre] explicará..."
 
-### ⏱️ Manejo del Tiempo
+### Manejo del Tiempo
 - **Ensayen con cronómetro:** Cada sección debe estar timeada
 - **Designen un timekeeper:** Alguien que monitoree el tiempo
 - **Tengan un plan de contingencia:** Si van atrasados, ¿qué cortan?
 
 ---
 
-## 🏆 Criterios de Evaluación - Recordatorio
+## Elementos que Marcan la Diferencia
 
-**Recuerda que serás evaluado en:**
-
-### 🎤 Presentación (10% de la nota total)
-- **Claridad comunicativa (5%):** ¿Se entiende fácilmente?
-- **Profesionalismo (3%):** ¿Están preparados y confiados?
-- **Manejo del tiempo (2%):** ¿Respetan los tiempos asignados?
-
-### 🛠️ Aspecto Técnico (40% total)
-- Tu demo debe mostrar competencia técnica
-- Los insights deben estar bien fundamentados en datos
-- Las visualizaciones deben ser claras y apropiadas
-
-### 🌍 Impacto Social (30% total)
-- La conexión con el ODS debe ser evidente
-- Las recomendaciones deben ser realistas y útiles
-
----
-
-## ✨ Elementos que Marcan la Diferencia
-
-### 🌟 Para una Presentación Memorable:
+### Para una Presentación Memorable:
 - **Hook inicial fuerte:** Estadística impactante o pregunta poderosa
 - **Historia personal:** ¿Por qué eligieron este problema?
 - **Visualización "wow":** Un gráfico que realmente sorprenda
 - **Call to action:** ¿Qué puede hacer la audiencia con esta información?
 
-### 🎯 Errores a Evitar:
+### Errores a Evitar:
 - **Demasiado texto en slides:** Use bullets, no párrafos
 - **Demo muy larga:** Máximo 4-5 minutos
 - **Lenguaje muy técnico:** Expliquen conceptos complejos
@@ -308,33 +273,6 @@ Agradecimientos
 
 ---
 
-## 📋 Checklist Final
-
-### 📅 Una Semana Antes:
-- [ ] Slides completadas y revisadas
-- [ ] Dashboard funcional y testeado
-- [ ] Script de presentación escrito
-- [ ] Roles del equipo definidos
-
-### 📅 Tres Días Antes:
-- [ ] Ensayo completo realizado
-- [ ] Feedback incorporado
-- [ ] Plan B preparado
-- [ ] Screenshots de backup tomados
-
-### 📅 Un Día Antes:
-- [ ] Ensayo final con cronómetro
-- [ ] Tecnología verificada
-- [ ] Ropa y materiales preparados
-- [ ] Mentalmente preparados y confiados
-
-### 📅 Día de la Presentación:
-- [ ] Llegar temprano para setup
-- [ ] Probar tecnología en el lugar
-- [ ] Respirar profundo y recordar: ¡han hecho un gran trabajo!
-
----
-
-**¡Recuerden: Su pasión por el proyecto es su mejor herramienta de presentación! 🌟**
+**¡Recuerden: Su pasión por el proyecto es su mejor herramienta de presentación!**
 
 *Han trabajado duro para crear algo que puede hacer una diferencia real. Muestren ese orgullo y entusiasmo.*
