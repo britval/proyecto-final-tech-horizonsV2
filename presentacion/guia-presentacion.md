@@ -19,6 +19,7 @@ Tu presentación debe demostrar:
 **Contenido:**
 - Presentación del equipo y roles
 - Nombre del del equipo y lema/slogan
+- Hook inicial: ¿Por qué este problema importa?
 
 **Tips:**
 - Empieza con una estadística impactante
